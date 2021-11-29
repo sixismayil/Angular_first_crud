@@ -1,2 +1,2 @@
-# Angular_first_crud-prime
+# Angular_prime_ng
  
